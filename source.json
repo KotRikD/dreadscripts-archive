@@ -1,27 +1,25 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"DreadScripts (archive) by KotRik",
+    "id":"ru.kotrik.dreadscripts.archive",
+    "url":"https://kotrikd.github.io/dreadscripts-archive/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"i@kotrik.ru",
+        "name":"KotRik",
+        "url":"https://kotrik.ru"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"An archive for dreadscripts, because somebody treated his community very badly...",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/kotrikd/dreadscripts-archive",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.dreadrith.packageprocessor",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/kotrikd/dreadscripts-archive/Packages/com.dreadrith.packageprocessor-1.0.1.zip"
             ]
         }
     ]
