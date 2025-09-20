@@ -19,7 +19,67 @@
         {
             "name":"com.dreadrith.packageprocessor",
             "releases":[
-                "https://github.com/kotrikd/dreadscripts-archive/Packages/com.dreadrith.packageprocessor-1.0.1.zip"
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadrith.packageprocessor-1.0.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.animationhierarchyeditor",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.animationhierarchyeditor-1.0.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.assetorganizer",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.assetorganizer-1.0.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.blendtreebuilder",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.blendtreebuilder-0.8.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.controllercleaner",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.controllercleaner-1.0.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.copycutpaste",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.copycutpaste-1.0.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.hierarchyplus",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.hierarchyplus-1.3.0.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.quicktoggle",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.quicktoggle-1.6.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.selectionhelper",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.selectionhelper-1.2.4.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.vrcprocessor",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.vrcprocessor-1.0.1.zip"
+            ]
+        },
+        {
+            "name": "com.dreadscripts.vrcsdkplus",
+            "releases": [
+                "https://github.com/KotRikD/dreadscripts-archive/raw/refs/heads/main/Packages/com.dreadscripts.vrcsdkplus-1.6.0.zip"
             ]
         }
     ]
